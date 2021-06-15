@@ -6,7 +6,7 @@ It also, determines the positions of matches and mismatches using 1 and 0.
 input example:
 ```
 [AS]-D-[IVL]-G-X(4)-{PG}-C-[DE]-R-[FY](2)-Q
-4<br>
+4
 ATLGAVFALCDRYFQ
 WDVGPRSCFCDREYR
 ADWGRTQNRCDCYYQ
